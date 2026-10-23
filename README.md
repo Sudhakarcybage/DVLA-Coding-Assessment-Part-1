@@ -17,7 +17,7 @@ The solution is developed in Python and uses a JSON file to store vehicle regist
 DVLACodingAssessmentPart_01/
 ├── dvla_demo_part1.py
 ├── Vehicles_reg_details.json
-├── test_unittest_vehiclesreg_details.py
+├── test_vehiclesreg_details.py
 ├── testdata_dvla.txt
 ├── .gitignore
 └── README.md
