@@ -1,0 +1,1 @@
+total_registration_numbers = 3

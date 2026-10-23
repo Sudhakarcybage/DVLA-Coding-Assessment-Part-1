@@ -1,0 +1,13 @@
+ { "Vehicle_details": [{
+            "Registration Number" :  "AB01 CDE",
+            "Year": 2001,
+            "Vehicle ID": 12345},
+            {
+            "Registration Number": "FG02 HJK",
+            "Year": 2002,
+            "Vehicle ID": 67890},
+            {
+            "Registration Number": "L33T H4X0R",
+            "Year": 2022}
+        ] }
+
